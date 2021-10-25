@@ -1,18 +1,20 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # 网络通讯库
 
 为了方便.NET 开发者制作基于[NexDroid 控制系统](http://www.inexbot.com/product/content?id=35&num=0&type=controlSys)的桌面端软件，我们基于.NET 封装了网络通讯库“NrcTcpLibrary”，仅需简单调用即可向控制器收发数据。
 
-[GitHub](https://github.com/inexbot/NrcTcpLibrary)
-
-欢迎 Fork 和 Pull requests！
-
 任何使用问题或 Bug？请联系weifan@inexbot.com
 
 建议使用 Nuget 来安装[NrcTcpLibrary 库](https://www.nuget.org/packages/NrcTcpLibrary/)。
+
+## 开源
+
+[GitHub](https://github.com/inexbot/NrcTcpLibrary)
+
+欢迎 Fork 和 Pull requests！
 
 ## 使用前提
 

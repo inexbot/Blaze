@@ -65,8 +65,8 @@ module.exports = {
             position: "right",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "Gitee",
+            href: "https://github.com/inexbot/Blaze",
+            label: "GitHub",
             position: "right",
           },
         ],

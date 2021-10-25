@@ -1,18 +1,20 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 日志记录(log)库
 
 这是在开发.NET 桌面端软件时捎带做的一个基于 XML 文件的 log 记录库。使用非常简单，可满足自定义的需求。
 
-[GitHub](https://github.com/inexbot/XmlLogLibrary)
-
-欢迎 Fork 和 Pull requests！
-
 建议使用 Nuget 来安装[XmlLogLibrary 库](https://www.nuget.org/packages/XmlLogLibrary/)。
 
 任何使用问题或 Bug？请联系weifan@inexbot.com
+
+## 开源
+
+[GitHub](https://github.com/inexbot/XmlLogLibrary)
+
+欢迎 Fork 和 Pull requests！
 
 ## 使用前提
 

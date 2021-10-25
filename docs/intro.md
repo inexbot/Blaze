@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ## 使命
 
-Blaze The Trail，寻找工业机器人操作、调试、测试的更多可能性。
+Blaze The Trail，寻找工业机器人操作、调试、测试的更多可能性，拥抱开源。
 
 ## 命名由来
 
