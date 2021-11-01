@@ -8,13 +8,17 @@ sidebar_position: 1
 
 您可以下载 Demo 示例试用，当然我们更加欢迎您通过示例代码进行再开发！
 
-[Demo 下载](https://inexbot-use.oss-cn-shanghai.aliyuncs.com/ipd/net5.0-windows.zip)
+[Demo 下载](https://inexbot-use.oss-cn-shanghai.aliyuncs.com/ipd/net5.0-windows.zip) (更新日期 2021-11-01)
 
 <img src="/img/dotnet/ipd-2.png" />
 
 一些开发经验会在 Blaze 的 [Blog](https://blaze.inexbot.com/blog) 和<strong>纳博特科技 Inexbot</strong>公众号中分享！
 
 <img src="/img/inexbotqrcode.jpg" width="350px" align="center" />
+
+## 更新
+
+- 11 月 1 日 - 在调试菜单中增加 OPC-UA 支持。当且仅当您的控制器为最新支持 OPC-UA 的版本时可用。
 
 ## 开源
 
