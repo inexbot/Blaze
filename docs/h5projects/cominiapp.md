@@ -1,8 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 8
 ---
 
-# 协作机器人小程序
+# 协作机器人小程序(已归档)
+
+由于需要控制器内置转发程序，过程繁琐，效率低下，所以采用新的方式来做，本小程序已做归档处理。
 
 协作机器人专用微信小程序，可远程操作机器人。
 
@@ -23,7 +25,7 @@ sidebar_position: 3
 
 ## 开源
 
-[GitHub](https://github.com/inexbot/Robot-HMI-MiniApp)
+[GitHub](https://github.com/inexbot/Robot-HMI-MiniApp-Old)
 
 欢迎 Fork 和 Pull requests！
 

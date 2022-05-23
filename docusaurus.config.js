@@ -34,6 +34,10 @@ module.exports = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        googleAnalytics: {
+          trackingID: "G-LBCN9FERYM",
+          anonymizeIP: false,
+        },
       }),
     ],
   ],
@@ -41,10 +45,6 @@ module.exports = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      googleAnalytics: {
-        trackingID: "G-LBCN9FERYM",
-        anonymizeIP: false,
-      },
       navbar: {
         title: "布蕾组Blaze",
         logo: {
@@ -60,8 +60,8 @@ module.exports = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://open.inexbot.com",
-            label: "NexDroid二次开发",
+            href: "https://www.openroboticsalliance.com",
+            label: "开放机器人联盟",
             position: "right",
           },
           {
@@ -78,12 +78,12 @@ module.exports = {
             title: "相关",
             items: [
               {
-                label: "纳博特科技",
+                label: "纳博特南京科技有限公司",
                 href: "https://www.inexbot.com",
               },
               {
-                label: "NexDroid二次开发",
-                href: "https://open.inexbot.com",
+                label: "开放机器人联盟",
+                href: "https://www.openroboticsalliance.com",
               },
             ],
           },
@@ -91,8 +91,8 @@ module.exports = {
             title: "更多",
             items: [
               {
-                label: "gitee",
-                href: "https://gitee.com/nj_inexbot/blaze",
+                label: "Docusaurus",
+                href: "https://www.docusaurus.cn/",
               },
             ],
           },
